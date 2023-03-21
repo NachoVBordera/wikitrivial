@@ -5,4 +5,5 @@ más relevantes del dia en Wikipedia
 
 En las siquientes capturas podeis ver el resultado.😊
 
-![Descripción de la imagen](/images/picture.jpg)
+![](/images/imagen1.png)
+![](/images/imagen2.png)
